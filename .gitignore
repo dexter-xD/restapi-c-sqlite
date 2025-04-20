@@ -1,0 +1,26 @@
+# Build directory
+build/
+
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# SQLite database
+*.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+.directory
+Thumbs.db 
