@@ -248,7 +248,7 @@ When contributing, please:
 
 If you find this project helpful, consider buying me a coffee:
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoffee.com/trish07)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/trish07)
 
 ## License
 
